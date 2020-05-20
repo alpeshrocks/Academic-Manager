@@ -1,6 +1,23 @@
 ## Academic-Manager
 This is python-firebase based project on Academic Manager
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project contain two login portals one for student and another for faculty
 Both of them have a login and registration options
 On registration your account will be created using  Authenticate feature of google firebase & all the data will be stored in firebse realtime database.
