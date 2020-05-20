@@ -7,14 +7,14 @@ import pyrebase
 
 config = {
 
-    "apiKey": "AIzaSyChB8VIRJIH0CYrMd3Njxqms58K2K-n21A",
-    "authDomain": "alpp-2f73b.firebaseapp.com",
-    "databaseURL": "https://alpp-2f73b.firebaseio.com",
-    "projectId": "alpp-2f73b",
-    "storageBucket": "alpp-2f73b.appspot.com",
-    "messagingSenderId": "439149097665",
-    "appId": "1:439149097665:web:2e70e198d5f1c4f7a85a40",
-    "measurementId": "G-K8GLPQEZ2X"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": ""
 
 }
 firebase = pyrebase.initialize_app(config)
