@@ -1,0 +1,3 @@
+download the image and application file
+change the path of image in application file
+execute the application file 
